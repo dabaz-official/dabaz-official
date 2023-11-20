@@ -16,7 +16,7 @@ I delve into **design** with a keen eye for aesthetics, crafting visually appeal
 My journey in **frontend development** is self-taught, driven by a fascination with the endless possibilities of code. I’m continually exploring new frameworks and technologies to build intuitive and dynamic web interfaces.
 
 ### 📝 Blogger
-I share my multi-faceted journey and knowledge through social media and blog posts. Dive into my explorations on my [personal blog](#).
+I share my multi-faceted journey and knowledge through social media and blog posts. Dive into my explorations on my [personal blog](https://dabaz.me/blog).
 
 ### 🌟 Future Endeavors
 I'm excited about diving deeper into the intersections of my interests, potentially finding synergy between music, design, and technology.
