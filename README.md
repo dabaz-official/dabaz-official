@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m DabAZ
 
-![DabAZ](https://www.dabaz.me/images/home/dreads.webp)
-
 ### 💬 Intro
 I’m an ethical hacker, musician, designer, and a frontend development enthusiast. My journey through the digital realm is fueled by a blend of creativity, technical acumen, and a perpetual desire for learning.
 
