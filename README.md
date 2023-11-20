@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m DabAZ
 
 ### 💬 Intro
-![Introduction](https://github.com/dabaz-official/dabaz-official/blob/master/introduction.png)
+![Introduction](https://github.com/dabaz-official/dabaz-official/blob/main/introduction.png)
 
 ### 🛡️ Ethical Hacker
 As an **ethical hacker**, I assist organizations in fortifying their defenses and ensuring their digital assets remain unbreachable. My fascination lies in the intricate dance between code and security, with each project bringing us closer to a safer digital world.
