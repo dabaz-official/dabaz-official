@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m DabAZ
 
 ### 💬 Intro
-I’m an ethical hacker, musician, designer, and a frontend development enthusiast. My journey through the digital realm is fueled by a blend of creativity, technical acumen, and a perpetual desire for learning.
+![Introduction](https://github.com/dabaz-official/dabaz-official/blob/master/introduction.png)
 
 ### 🛡️ Ethical Hacker
 As an **ethical hacker**, I assist organizations in fortifying their defenses and ensuring their digital assets remain unbreachable. My fascination lies in the intricate dance between code and security, with each project bringing us closer to a safer digital world.
