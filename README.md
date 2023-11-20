@@ -22,4 +22,4 @@ I share my multi-faceted journey and knowledge through social media and blog pos
 I'm excited about diving deeper into the intersections of my interests, potentially finding synergy between music, design, and technology.
 
 ### 📬 Connect with Me
-Reach out for discussions on cybersecurity, design, music, or frontend development at [dabaz@dabaz.me](mailto:dabaz@dabaz.me) or on my [X (formerly Twitter)](https://twitter.com/dabaz_official).
+Reach out for discussions on cybersecurity, design, music, or frontend development at [dabaz@dabaz.me](mailto:dabaz@dabaz.me) or on [X (formerly Twitter)](https://twitter.com/dabaz_official).
