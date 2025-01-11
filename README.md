@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m DabAZ
 
-![I'm still a rockstar though.](/rockstar.png)
+![Hi, I'm still a rockstar though.](/rockstar.png)
 
 Hi, I’m Diebold Dai (DabAZ), an entrepreneur passionate about turning visions into thriving realities. As a 6-figure business owner striving to reach the 7-figure milestone, I’ve learned that perseverance and a clear vision are the cornerstones of sustainable success.
 
