@@ -1,13 +1,9 @@
 ## 👋 Hi, I’m DabAZ
 
-![Hi, I'm still a rockstar though.](/rockstar.png)
+DabAZ is a passionate software developer and technology enthusiast dedicated to creating innovative digital solutions. With expertise in modern web technologies and a focus on user experience, DabAZ builds applications that make a meaningful impact.
 
-Hi, I’m Diebold Dai (DabAZ), an entrepreneur passionate about turning visions into thriving realities. As a 6-figure business owner striving to reach the 7-figure milestone, I’ve learned that perseverance and a clear vision are the cornerstones of sustainable success.
+I started IT career in 2019, as an ethical hacker. But I haven't been doing anything about cyber security since 2022. I am currently a software developer, working on web applications.
 
-With a foundation in information security, I’ve built my career across diverse fields, including technology, design, and music, eventually channeling these experiences into entrepreneurship. My journey has been shaped by a commitment to continuous learning and the ability to adapt to ever-changing challenges.
+I make [music](https://music.dabaz.me) as a hobby. Raised in China and United States, I was interested in pop, rock, and hip-hop music from a young age. I started my music career as a DJ in the band of his high school, which is Beijing Haidian Foreign Language Shi Yan School, before I began producing my own music. Inspired by Lil Pump and Juice WRLD, I began to make hip-hop music. Now, I makes different genres of music, including EDM, hip-hop, lo-fi, emo rap, trap, and rock.
 
-Currently, I lead a [trading company](https://cobotrading.com), focusing on providing high-quality products to the North American market. My mission is to create impactful businesses that not only achieve financial success but also deliver value to customers and partners worldwide.
-
-Beyond business, I’m a hacker, musician, designer, and developer, blending creativity and technical expertise into every project I pursue. Whether it’s crafting seamless user experiences or composing music, I believe in the power of interdisciplinary thinking to inspire innovation.
-
-Let's [connect](mailto:hi@dabaz.me) and explore how we can build a better future together.
+I also design as a hobby. I have designed a lot of different brands, including logos, websites, and social media profiles. With my music and design skills, I have also designed for individual artists, including their album covers and posters.
